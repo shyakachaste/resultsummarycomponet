@@ -1,1 +1,1 @@
-<img src="./design/desktopn-design.jpg">
+<img src="./design/desktop-design.jpg">
